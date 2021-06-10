@@ -1,9 +1,9 @@
 package com.ostapdev.weathertelerambot.botapi;
 
-import com.ostapdev.weathertelerambot.enums.BotState;
-import com.ostapdev.weathertelerambot.enums.KeyboardType;
-import com.ostapdev.weathertelerambot.enums.MainCommand;
-import com.ostapdev.weathertelerambot.models.LogStatus;
+import com.ostapdev.weathertelerambot.models.enums.BotState;
+import com.ostapdev.weathertelerambot.models.enums.KeyboardType;
+import com.ostapdev.weathertelerambot.models.enums.MainCommand;
+import com.ostapdev.weathertelerambot.models.enums.LogStatus;
 import com.ostapdev.weathertelerambot.services.ChatConfigService;
 import com.ostapdev.weathertelerambot.services.LogService;
 import com.ostapdev.weathertelerambot.services.WeatherService;

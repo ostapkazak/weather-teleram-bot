@@ -1,8 +1,8 @@
 package com.ostapdev.weathertelerambot.services;
 
-import com.ostapdev.weathertelerambot.enums.BotState;
+import com.ostapdev.weathertelerambot.models.enums.BotState;
 import com.ostapdev.weathertelerambot.models.ChatConfig;
-import com.ostapdev.weathertelerambot.models.LogStatus;
+import com.ostapdev.weathertelerambot.models.enums.LogStatus;
 import com.ostapdev.weathertelerambot.repos.ChatConfigRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

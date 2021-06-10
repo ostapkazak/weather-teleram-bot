@@ -1,6 +1,6 @@
 package com.ostapdev.weathertelerambot.models;
 
-import com.ostapdev.weathertelerambot.enums.BotState;
+import com.ostapdev.weathertelerambot.models.enums.BotState;
 import lombok.*;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
